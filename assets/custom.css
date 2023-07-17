@@ -1,0 +1,23 @@
+.whatsapp-button {
+    margin-top: 10px;
+}
+a.whatsapp-btn {
+    color: white;
+    min-width: 90px;
+    min-height: 50px;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    cursor: pointer;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    transition: box-shadow 0.2s ease, border-color 0.2s ease, opacity 0.3s;
+    overflow: hidden;
+    background: #25d366;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    text-transform: uppercase;
+}
